@@ -1,4 +1,4 @@
-# Die ist eine Git Kata
+11:32 01/12/2020# Die ist eine Git Kata
 
 Die Git Kata dient dazu, sich mit Git, GitHub und Pull-Requests 
 vertraut zu machen. Sie ist die Basis für alle anderen Katas, da
@@ -90,3 +90,4 @@ $ git push
 Fügen Sie diesem Abschnitt Ihren Namen oder Ihr Pseudonym hinzu:
 
 @kaufm
+@hanoversurv (i.A)
